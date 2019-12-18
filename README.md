@@ -1,1 +1,1 @@
-# personal page
+# Practicing Git
