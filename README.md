@@ -1,2 +1,2 @@
-# personal-page
+# personal-web
 # personal-web
